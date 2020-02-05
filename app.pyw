@@ -1,3 +1,4 @@
+#! python3
 import sys
 from googletrans import Translator
 from PyQt5.QtWidgets import QApplication, QWidget, QMainWindow, QLabel, QLineEdit, QTextEdit, QPushButton
